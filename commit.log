@@ -1,0 +1,43 @@
+e5951d17d remove unnecessary codes
+5788bc79a 0507
+f559cc5fa clow update
+e18eebb7d 0330
+9ccae2c35 naive solution fix it
+beab4535e naive solution 1 step
+5c6b3ea8f naive solution
+02cc1bc78 newsfork maybe
+88fc8d8ea i think i solve it
+3e64d48a3 newsfork -ing
+2a96670e2 cow
+b3a3079e9 fork-base sfork
+9dd7a5f70 fault-base sfork
+b795fa0cb finallyvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.c yeahvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.cvi mm/memory.c
+c4be5dda6 0222 backup
+3353d9940 0210 do_sfork complete
+64ad999a9 0208: backup
+18cdb45ae 0203 backup
+a3da73b64 0201:fix all
+272b80953 0201: 4KB size CoW counting
+70d82d157 0129-x2 granularity
+086b33278 0119 backup
+b5e9bf339 0108
+ff8534f20 no more shared_dirty
+32706259e no more bad rss counter!
+30481e966 1210
+a8dcf3ca1 1208
+c6acf060c 1207
+6a57042da now su works
+abf138d5a now booting is ok
+118441f31 almost...?
+73f8120d1 lets create own vmf
+d57a07f47 trying...
+bb44b7b0e finding the way alloc new page during the fork
+d7a5dbd68 1115
+e766aeda8 backup
+adcb90d56 measure the number of copy_process() using sfork
+071bda1ee procfs sfork read/write
+eecaef605 almost
+c67b57fb0 proc file sfork in pid directory
+0e04c90f4 trying
+54c95c044 init sfork
+23b5109af Initial commit
